@@ -92,4 +92,3 @@ custom-data-chatbot-python/
 * **Rich Media**: Add image/audio responses or integrate with voice assistants.
 * **Deployment**: Wrap with Flask/FastAPI or integrate into messaging platforms (Telegram, Slack, etc.).
 
-Let me know if you'd like help customizing the `intents.json`, adding deployment instructions, or enhancing the chatbot’s capabilities!
